@@ -55,7 +55,7 @@
 <br />
 <p align="center">
   <img width="400" src="https://github.com/YuriDevAT/sos-animals/blob/main/public/thumbnail-sos.png" />
-  <img width="400" src="https://github.com/the-collab-lab/tcl-19-smart-shopping-list/blob/main/public/Thumbnail.png" />
+  <img width="400" src="[https://github.com/the-collab-lab/tcl-19-smart-shopping-list/blob/main/public/Thumbnail.png](https://user-images.githubusercontent.com/90147636/193416392-60cff0c1-8478-436e-8090-505d77a075fe.png)" />
  <a href="https://github.com/YuriDevAT/sos-animals">
   <img align="" src="https://github-readme-stats.vercel.app/api/pin/?username=YuriDevAT&repo=sos-animals&theme=tokyonight" />
 </a>
